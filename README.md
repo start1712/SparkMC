@@ -1,6 +1,6 @@
 # SparkMC
 ## an interesting minecraft project for hackers
-Thanks:
+👥 Contributors:
 DiamondPick_S
 start1712
 EZGray
